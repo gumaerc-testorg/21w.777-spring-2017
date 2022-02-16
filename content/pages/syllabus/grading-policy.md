@@ -1,6 +1,9 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: Syllabus
+parent_type: CourseSection
 parent_uid: 47b81639-963f-9862-9b03-b386a52ad635
 title: Grading Policy
 uid: a4e2b74b-4d64-1dfa-81f6-f83c6a2c3144
