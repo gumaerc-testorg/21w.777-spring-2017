@@ -11,6 +11,7 @@ learning_resource_types: []
 ocw_type: OCWImage
 parent_title: Pre-writing for your Investigative Essay
 parent_type: CourseSection
+parent_uid: 48dfa2b6-63ff-fd9a-3cfb-1c6e6b8f562d
 resourcetype: Image
 title: notes
 uid: 0c34e550-4950-4b9a-d74a-a0eb6f65fdc8
