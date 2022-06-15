@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /media/courses/21w-777-science-writing-in-contemporary-society-spring-2017/0c34e55049504b9ad74aa0eb6f65fdc8_notes.jpg
+file: /courses/21w-777-science-writing-in-contemporary-society-spring-2017/0c34e55049504b9ad74aa0eb6f65fdc8_notes.jpg
 file_type: image/jpeg
 image_metadata:
   caption: ''
