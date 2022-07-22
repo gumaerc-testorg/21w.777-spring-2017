@@ -1,6 +1,9 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: Assignments 8-15
+parent_type: CourseSection
 parent_uid: ccf9a600-f272-061b-b563-a8509e776eec
 title: Pre-writing for your Investigative Essay
 uid: 48dfa2b6-63ff-fd9a-3cfb-1c6e6b8f562d

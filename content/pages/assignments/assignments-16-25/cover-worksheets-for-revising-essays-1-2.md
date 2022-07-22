@@ -1,6 +1,9 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: Assignments 16-25
+parent_type: CourseSection
 parent_uid: 9ea90763-b6f3-9f4d-ff7b-02da80959257
 title: Cover Worksheets for Revising Essays 1 & 2
 uid: 67eb5df4-4055-35ab-fce9-9a7c11888fdf
