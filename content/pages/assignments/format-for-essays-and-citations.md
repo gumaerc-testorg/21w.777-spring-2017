@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section explains the formatting for essays and how to properly cite
+  sources.
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection
