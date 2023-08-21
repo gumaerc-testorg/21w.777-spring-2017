@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: This section details how oral presentations will be assessed.
 learning_resource_types: []
 ocw_type: CourseSection
 parent_title: Assignments 16-25
@@ -45,4 +46,4 @@ What was the _best_ thing about the talk?
 
 What would you recommend that the speaker work to _improve_ for next time?
 
-Return to [Assignments 16-25]({{< baseurl >}}/pages/assignments/assignments-16-25)
+Return to {{% resource_link 9ea90763-b6f3-9f4d-ff7b-02da80959257 "Assignments 16-25" %}}

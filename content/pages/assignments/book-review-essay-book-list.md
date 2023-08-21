@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section contains a list of books students chose from to write their
+  Book Review Essay.
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection

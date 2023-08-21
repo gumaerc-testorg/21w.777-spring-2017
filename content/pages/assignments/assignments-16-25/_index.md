@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: This section contains the details for Assignments 16-25.
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection
@@ -33,7 +34,7 @@ Here are some suggestions re: what kinds of things to include, copied from the R
 
 Depending on your site, and your own background and knowledge about the main topic(s), you should have some specific observations related to its purpose and audience.
 
-Note: See also the [Rubric for Oral Presentations]({{< baseurl >}}/pages/assignments/assignments-16-25/rubric-for-evaluating-oral-presentations) for aspects of the talk on which you’ll be evaluated.
+Note: See also the {{% resource_link 2361ae74-548c-3f5a-ef63-426b22586bf9 "Rubric for Oral Presentations" %}} for aspects of the talk on which you’ll be evaluated.
 
 **Assignment #17b - Revise Essay 2: Investigative Essay** - due the day after Session 17
 
@@ -126,7 +127,7 @@ Begin to prepare your portfolio. You will need to:
 
 Note: Revising the Book Review Essay (Essay 3) is optional
 
-Use these [cover worksheets]({{< baseurl >}}/pages/assignments/assignments-16-25/cover-worksheets-for-revising-essays-1-2) for revising Essays 1 and 2.
+Use these {{% resource_link 67eb5df4-4055-35ab-fce9-9a7c11888fdf "cover worksheets" %}} for revising Essays 1 and 2.
 
 _For class Session 25_
 
