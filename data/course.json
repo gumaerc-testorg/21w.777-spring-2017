@@ -39,7 +39,9 @@
   },
   "course_title": "Science Writing in Contemporary Society",
   "course_description": "This class addresses the craft of writing about science in and for contemporary society, both its pleasures and its challenges. We will read essays, reportage, op-eds, and web-based articles on a variety of topics concerning science, technology, medicine and nature. Readings by contemporary writers such as Elizabeth Kolbert, Atul Gawande, and Michael Pollan will serve as examples of the craft and sources of ideas for our own writing.\n",
-  "department_numbers": [],
+  "department_numbers": [
+    "CMS-W"
+  ],
   "extra_course_numbers": "",
   "primary_course_number": "21W.777",
   "course_image_thumbnail": {
@@ -49,6 +51,7 @@
   "learning_resource_types": [
     "Written Assignments"
   ],
-  "site_uid": "df962c68-4083-4fe8-8d3d-8a378813ece8",
+  "site_uid": "7417ab2a-cde6-4f27-917c-07b66d02ffc2",
+  "site_short_id": "21w.777-spring-2017",
   "title": "Course Metadata"
 }

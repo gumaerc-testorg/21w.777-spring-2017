@@ -1,12 +1,13 @@
 ---
 content_type: page
+description: This section contains course topics and key dates for the course.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Calendar
 uid: edc2da37-0605-9b6e-d5d3-ad4484f24a66
 ---
 
-This schedule is our road map for the semester. Use it as a guideline for when essays are due and for our workshop days. Assignments are due at the next class meeting, unless otherwise noted. Please see the [Readings]({{< baseurl >}}/pages/readings) section for corresponding readings for certain assignments.
+This schedule is our road map for the semester. Use it as a guideline for when essays are due and for our workshop days. Assignments are due at the next class meeting, unless otherwise noted. Please see the {{% resource_link 68dd70e6-f1a0-8832-f5d9-055f92794c80 "Readings" %}} section for corresponding readings for certain assignments.
 
 {{< tableopen >}}
 {{< theadopen >}}

@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: This section contains instructions and guidelines for the Reading Journals.
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection

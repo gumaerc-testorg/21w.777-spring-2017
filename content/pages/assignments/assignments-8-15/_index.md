@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: This section contains the details for Assignments 8-15.
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection
@@ -89,7 +90,7 @@ Write an essay that investigates an aspect of science, medicine, nature or techn
 
 {{< /div-with-class >}}{{< div-with-class "toggle1">}}
 
-*   [Pre-writing for your Investigative Essay]({{< baseurl >}}/pages/assignments/assignments-8-15/pre-writing-for-your-investigative-essay)
+*   {{% resource_link 48dfa2b6-63ff-fd9a-3cfb-1c6e6b8f562d "Pre-writing for your Investigative Essay" %}}
 *   Think of your essay as being like the ones we’ve read from the _New Yorker_ or the _Best American Essays_. That is, they will have many elements of a feature article, but also include a POV. It may or may not have a thesis statement, but readers should be able to infer one even if it is not explicitly stated. It may explicitly ask a question, but even if it doesn’t, it should be clear what question your essay aims to answer.
 *   You may use “I” in this essay, and may refer to personal experience and/or observations.
 *   You may wish to imagine a particular magazine, newspaper or website as the place (with its typical audience) you would like to publish your essay. If you do so, include that in your proposal and also note it at the top of your draft, under your name/date/word count.

@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: 'This section contains the templates for the revision worksheets for
+  Essays 1 and 2. '
 learning_resource_types: []
 ocw_type: CourseSection
 parent_title: Assignments 16-25
@@ -32,4 +34,4 @@ Think especially about shaping your essay, so that the whole is more than the su
 2.  What's the thesis—the main idea—of this essay? Articulate it as clearly as you can in 1-2 complete sentences.
 3.  Where do you see yourself growing as a writer with this sequence of drafts?
 
-Return to [Assignments 16-25]({{< baseurl >}}/pages/assignments/assignments-16-25)
+Return to {{% resource_link 9ea90763-b6f3-9f4d-ff7b-02da80959257 "Assignments 16-25" %}}
