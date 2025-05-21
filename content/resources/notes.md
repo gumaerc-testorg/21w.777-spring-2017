@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /ol-ocw-studio-app/courses/21w-777-science-writing-in-contemporary-society-spring-2017/0c34e55049504b9ad74aa0eb6f65fdc8_notes.jpg
+file: /courses/21w-777-science-writing-in-contemporary-society-spring-2017/0c34e55049504b9ad74aa0eb6f65fdc8_notes.jpg
 file_size: 36464
 file_type: image/jpeg
 image_metadata:
