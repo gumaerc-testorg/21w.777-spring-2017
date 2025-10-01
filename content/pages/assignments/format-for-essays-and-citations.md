@@ -63,7 +63,7 @@ With either style, work important sources’ names into your text (not in parent
 
 **Modified _Nature_ reference style**
 
-These are the key elements of _[Nature](http://www.nature.com/nature/authors/gta/index.html?foxtrotcallback=true#a5.4)_ style.
+These are the key elements of _{{% resource_link "b4e7c154-a27f-4766-9359-0aa4af60f176" "Nature" %}}_ style.
 
 1.  References—in the listing that appears at the end of your essay—are each numbered, ordered sequentially as they appear in your text, tables, boxes, or figure captions.
 2.  When cited in the text, reference numbers are superscript, not in brackets unless they are likely to be confused with a superscript number. Each source is assigned one number; each time you draw on that source, use the same superscript number, like this.{{< sup "1" >}}

@@ -118,7 +118,7 @@ Write 2-3 paragraphs of response to classmates’ drafts, focusing on issues suc
 
 **Assignment #14b** - Due Session 15
 
-1.  READ “The Dilbit Disaster.” This article is noteworthy for a few reasons: it appeared in the early days of [InsideClimate News](https://insideclimatenews.org/about), a web source dedicated to climate and energy issues; it won a Pulitzer Prize, the first one awarded for investigative reporting by a purely web source; and one of the co-authors of the series is Lisa Song, an alumna of MIT both as an undergrad and grad student in the Graduate Program in Science Writing.
+1.  READ “The Dilbit Disaster.” This article is noteworthy for a few reasons: it appeared in the early days of {{% resource_link "0cc8114d-91b5-4274-8b4e-93ba661b54fa" "InsideClimate News" %}}, a web source dedicated to climate and energy issues; it won a Pulitzer Prize, the first one awarded for investigative reporting by a purely web source; and one of the co-authors of the series is Lisa Song, an alumna of MIT both as an undergrad and grad student in the Graduate Program in Science Writing.
 
 For class discussion: Keeping in mind that this is the first article in a series (you are welcome to read more!), what do you notice about it? What’s the purpose, the takeaway, of the article? What does the online environment allow? What does the article do well? Does it raise any questions for you—either about science writing, or about the Dilbit issue?
 
