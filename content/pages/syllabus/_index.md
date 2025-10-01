@@ -69,7 +69,7 @@ In addition, shorter writing assignments will occasionally be given as homework.
 
 Note: Assignments are posted under “Assignments,” while the readings themselves are posted under “Readings.” There are no required books for this class, but if you have not already read it, I highly recommend *Ideas into Words* by Elise Hancock.
 
-Hancock, Elise. *Ideas into Words: Mastering the Craft of Science Writing*. Foreward by Robert Kanigel. First Printing edition. Johns Hopkins University Press, 2003. ISBN: 9780801873300. \[Preview with [Google Books](https://books.google.com/books?id=YGLcYi3QJ1IC&lpg=PP1&dq=ideas%20into%20words&pg=PP1#v=onepage&q&f=false)\]
+Hancock, Elise. *Ideas into Words: Mastering the Craft of Science Writing*. Foreward by Robert Kanigel. First Printing edition. Johns Hopkins University Press, 2003. ISBN: 9780801873300. \[Preview with {{% resource_link "78e1cf43-00c1-4679-88a2-c792bb476eb5" "Google Books" %}}\]
 
 *Dictionaries*. Mac computers have a decent computer on board (via “Tools”), which you can access by highlighting words in texts you’re reading or writing. Even better is the Dictionary app: on my Mac it’s the New Oxford American Dictionary, and by keeping it on your dashboard, you’ll be able to use it seamlessly. For those of you interested in learning more about words, or for whom English is a second language, I strongly encourage you to have, and use, a good *hardcover* dictionary.
 
