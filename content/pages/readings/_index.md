@@ -44,19 +44,19 @@ Writing in "Contemporary Society"
 
 _For Assignment #1_:
 
-Weed, William Speed. "[106 Science Claims and a Truckful of Baloney](http://www.popsci.com/scitech/article/2004-05/1o6-science-claims-and-truckful-baloney)." _Popular Science_. May 5, 2004.
+Weed, William Speed. "{{% resource_link "a61ea5b9-44c0-45cc-bc96-25f4b631c9e5" "106 Science Claims and a Truckful of Baloney" %}}." _Popular Science_. May 5, 2004.
 
 Five short articles on science-related “problems” of various kinds:
 
-Shariff, Azim, Iyad Rahwan and Jean-François Bonnefon. "[Whose Life Should Your Car Save?](https://www.nytimes.com/2016/11/06/opinion/sunday/whose-life-should-your-car-save.html)" _The New York Times_. November 3, 2016.
+Shariff, Azim, Iyad Rahwan and Jean-François Bonnefon. "{{% resource_link "d8b6a97f-bee4-48aa-aeb6-6eacc3b102fb" "Whose Life Should Your Car Save?" %}}" _The New York Times_. November 3, 2016.
 
-Quammen, David. "[It's Our Land. Let's Keep It That Way](https://www.nytimes.com/2016/12/10/opinion/its-our-land-lets-keep-it-that-way.html)." _The New York Times_. December 10, 2016.
+Quammen, David. "{{% resource_link "48590cb2-52a5-4aaa-8ac0-6e0a353887de" "It's Our Land. Let's Keep It That Way" %}}." _The New York Times_. December 10, 2016.
 
-Holmes, Jamie. "[Flossing and the Art of Scientific Investigation](https://www.nytimes.com/2016/11/25/opinion/sunday/flossing-and-the-art-of-scientific-investigation.html)." _The New York Times_. November 25, 2016.
+Holmes, Jamie. "{{% resource_link "6c4de680-6535-48b4-958a-b1eda2608e7c" "Flossing and the Art of Scientific Investigation" %}}." _The New York Times_. November 25, 2016.
 
-Traywick, Catherine and Mark Chediak. "[Nuclear Plants Closing Early Leave Decades of Toxic Waste Stranded](https://www.bloomberg.com/news/articles/2016-11-03/decades-of-toxic-waste-stranded-as-nuclear-plants-close-early)." _Bloomberg_. November 3, 2016.
+Traywick, Catherine and Mark Chediak. "{{% resource_link "7591c34d-c385-4593-9ea2-8e5b499cd13f" "Nuclear Plants Closing Early Leave Decades of Toxic Waste Stranded" %}}." _Bloomberg_. November 3, 2016.
 
-Gross, Rachel E. "[Just Add Science?](https://undark.org/article/just-add-science-journalism-trump/)" _Undark_. January 24, 2017.
+Gross, Rachel E. "{{% resource_link "dbaa996d-f4c9-42e3-9fd8-382d0885ef2f" "Just Add Science?" %}}" _Undark_. January 24, 2017.
 
 
 {{< tdclose >}}
@@ -80,7 +80,7 @@ Context(s): Getting at the bigger picture
 
 _For Assignment #2:_
 
-Lightman, Alan. ["Prisoner of the Wired World." (PDF)](http://faculty.winthrop.edu/macric/crtw_201_current/prisoners.pdf) In _A Sense of the Mysterious: Science and the Human Spirit_. Reprint edition. Vintage, 2006. ISBN: 9781400078196.
+Lightman, Alan. {{% resource_link "0c8f3d3c-abae-47ed-9ac6-9f3bcf99fa38" "\"Prisoner of the Wired World.\" (PDF)" %}} In _A Sense of the Mysterious: Science and the Human Spirit_. Reprint edition. Vintage, 2006. ISBN: 9781400078196.
 
 Turkle, Sherry. _Alone Together: Why We Expect More from Technology and Less from Each Other_. Basic Books, 2012, pp. 175–209. ISBN: 9780465031467.
 
@@ -106,7 +106,7 @@ The "human element" (Hancock)
 
 _For Assignment #3:_
 
-Proctor, Robert N. "[Climate Change in Trump's Age of Ignorance](https://nyti.ms/2jDuWHG)." _The New York Times_. November 19, 2016.
+Proctor, Robert N. "{{% resource_link "784168a7-01f0-4507-b7fa-bed032acc3b5" "Climate Change in Trump's Age of Ignorance" %}}." _The New York Times_. November 19, 2016.
 
 \[AS\] "The Bed-Rest Hoax."
 
@@ -136,7 +136,7 @@ Introduce Investigative Essay assignment
 
 _For Assignment #4_
 
-Gawande, Atul. "[The Heroism of Incremental Care](http://www.newyorker.com/magazine/2017/01/23/the-heroism-of-incremental-care)." _The New Yorker_. January 23, 2017.
+Gawande, Atul. "{{% resource_link "db8be78e-09be-4f3e-9c97-5c4be2924975" "The Heroism of Incremental Care" %}}." _The New Yorker_. January 23, 2017.
 
 
 {{< tdclose >}}
@@ -216,7 +216,7 @@ Discuss Research proposals
 
 _For Assignment #8:_
 
-Specter, Michael. "[Rewriting the Code of Life](http://www.newyorker.com/magazine/2017/01/02/rewriting-the-code-of-life)." _The New Yorker_. January 2, 2017.
+Specter, Michael. "{{% resource_link "af51d049-08a3-4fd1-88d9-f0463c586b47" "Rewriting the Code of Life" %}}." _The New Yorker_. January 2, 2017.
 
 
 {{< tdclose >}}
@@ -234,9 +234,9 @@ Complexity, controversy, context
 
 _For Assignment #9:_
 
-Gladwell, Malcolm. "[The Engineer's Lament](http://www.newyorker.com/magazine/2015/05/04/the-engineers-lament)." _The New Yorker_. May 4, 2015.
+Gladwell, Malcolm. "{{% resource_link "5089088c-9cb8-4aa5-a6db-6d6de568fe03" "The Engineer's Lament" %}}." _The New Yorker_. May 4, 2015.
 
-Toness, Bianca Vázquez. "[Before the Bridge Falls Down](https://undark.org/article/did-the-engineer-learn-ethics/)." _Undark_. Janauary 10, 2017.
+Toness, Bianca Vázquez. "{{% resource_link "88518ef0-4da2-4340-b7a4-a49b7e0230e5" "Before the Bridge Falls Down" %}}." _Undark_. Janauary 10, 2017.
 
 
 {{< tdclose >}}
@@ -262,11 +262,11 @@ Progress reports on Investigative Essays
 
 _For Assignment #10:_
 
-Pollan, Michael. "[Our Decrepit Food Factories](http://michaelpollan.com/articles-archive/our-decrepit-food-factories/)." _The New York Times Magazine_. December 16, 2007.
+Pollan, Michael. "{{% resource_link "f753349e-5f71-4d15-baef-3357a5968ba3" "Our Decrepit Food Factories" %}}." _The New York Times Magazine_. December 16, 2007.
 
-———. "[Unhappy Meals](http://michaelpollan.com/articles-archive/unhappy-meals/)." _The New York Times Magazine_. January 28, 2007. (Read up to and including the section on nutritionism)
+———. "{{% resource_link "2940e1e6-c807-46ba-ad8f-86ca5e6831c3" "Unhappy Meals" %}}." _The New York Times Magazine_. January 28, 2007. (Read up to and including the section on nutritionism)
 
-Levenson, Thomas. "[Human health needs a common defense. Too bad we blew it](https://www.bostonglobe.com/ideas/2017/03/05/human-health-needs-common-defense-too-bad-blew/TdbQvYgHzfWCur1X8kPSiO/story.html)." _The Boston Globe_. March 5, 2017.
+Levenson, Thomas. "{{% resource_link "88206052-700d-4335-b444-6b7e914f832c" "Human health needs a common defense. Too bad we blew it" %}}." _The Boston Globe_. March 5, 2017.
 
 
 {{< tdclose >}}
@@ -290,9 +290,9 @@ Putting language front and center
 
 _For Assignment #11:_
 
-Patel, Rinku. "[The Microbes in Your Home Could Save Your Life](http://www.popsci.com/bugged)." _Popular Science_. July 7, 2015.
+Patel, Rinku. "{{% resource_link "b8d422ec-dcd5-49fb-8188-6fe7c3be50ec" "The Microbes in Your Home Could Save Your Life" %}}." _Popular Science_. July 7, 2015.
 
-Quammen, David. "[Deadly Contact: How Animals and Humans Exchange Disease](http://ngm.nationalgeographic.com/2007/10/infectious-animals/quammen-text)." _National Geographic_. October, 2007.
+Quammen, David. "{{% resource_link "05583a66-149e-4bb1-81fe-0d8317a33e57" "Deadly Contact: How Animals and Humans Exchange Disease" %}}." _National Geographic_. October, 2007.
 
 
 {{< tdclose >}}
@@ -342,7 +342,7 @@ Workshop 3 Investigative Essays full class
 
 _For Assignment #14b:_
 
-McGowan, Elizabeth and Lisa Song. "[The Dilbit Disaster: Inside the Biggest Oil Spill You've Never Heard Of, Part 1](https://insideclimatenews.org/news/20120626/dilbit-diluted-bitumen-enbridge-kalamazoo-river-marshall-michigan-oil-spill-6b-pipeline-epa)." _Inside Climate News_. June 26, 2012.
+McGowan, Elizabeth and Lisa Song. "{{% resource_link "bc20b8f0-6984-4f44-8e55-02846dd99a1d" "The Dilbit Disaster: Inside the Biggest Oil Spill You've Never Heard Of, Part 1" %}}." _Inside Climate News_. June 26, 2012.
 
 
 {{< tdclose >}}
@@ -392,11 +392,11 @@ No assigned readings
 
 _Watch sample TED talks:_
 
-Gawande, Atul. "[How do we heal medicine?](https://www.ted.com/talks/atul_gawande_how_do_we_heal_medicine)" February 2012.
+Gawande, Atul. "{{% resource_link "8caf0569-b122-4f42-8893-fae4afa4c47f" "How do we heal medicine?" %}}" February 2012.
 
-Turkle, Sherry. "[Connected, but alone?](https://www.ted.com/talks/sherry_turkle_alone_together)" February 2012.
+Turkle, Sherry. "{{% resource_link "22854a3b-db34-48d6-bef2-265ba0c0bb5c" "Connected, but alone?" %}}" February 2012.
 
-Specter, Michael. "[The danger of science denial](https://www.ted.com/talks/michael_specter_the_danger_of_science_denial)." February 2010.
+Specter, Michael. "{{% resource_link "d1853291-fad8-41f5-b1a8-0b924f39be50" "The danger of science denial" %}}." February 2010.
 
 
 {{< tdclose >}}
@@ -414,15 +414,15 @@ Presentations on websites
 
 _For Assignment #18:_
 
-Mnookin, Seth. "[A Book Examines the Curious Case of a Man Whose Memory Was Removed](https://www.nytimes.com/2016/09/04/books/review/patient-h-m-luke-dittrich.html)." _The New York Times_. August 29, 2016.
+Mnookin, Seth. "{{% resource_link "de1ef0c7-9b84-4421-a68f-c240b028467f" "A Book Examines the Curious Case of a Man Whose Memory Was Removed" %}}." _The New York Times_. August 29, 2016.
 
-Thubron, Colin. "['The Invention of Nature,' by Andrea Wulf](https://www.nytimes.com/2015/09/27/books/review/the-invention-of-nature-by-andrea-wulf.html)." _The New York Times_. September 25, 2015.
+Thubron, Colin. "{{% resource_link "fe2e5b2e-a267-4a21-96b4-e1487224a93a" "'The Invention of Nature,' by Andrea Wulf" %}}." _The New York Times_. September 25, 2015.
 
-Frank, Adam. "[Dreaming in Code: Michio Kaku's 'Future of the Mind'](https://www.nytimes.com/2014/03/09/books/review/michio-kakus-future-of-the-mind.html)." _The New York Times_. March 7, 2014.
+Frank, Adam. "{{% resource_link "21b863d4-d4f8-49d9-9d45-9d97a2d88fdd" "Dreaming in Code: Michio Kaku's 'Future of the Mind'" %}}." _The New York Times_. March 7, 2014.
 
-Margonelli, Lisa. "[Eternal Life](http://www.nytimes.com/2010/02/07/books/review/Margonelli-t.html)." _The New York Times_. February 5, 2010.
+Margonelli, Lisa. "{{% resource_link "366fe618-9342-410a-861b-e55c6cfde16f" "Eternal Life" %}}." _The New York Times_. February 5, 2010.
 
-Ball, Philip. "['Frankenstein' Reflects the Hopes and Fears of Every Scientific Era](https://www.theatlantic.com/science/archive/2017/04/franken-science/523560/)." _The Atlantic_. April 20, 2017.
+Ball, Philip. "{{% resource_link "8a837c18-3a30-44bd-87af-e8fd0fa9772f" "'Frankenstein' Reflects the Hopes and Fears of Every Scientific Era" %}}." _The Atlantic_. April 20, 2017.
 
 
 {{< tdclose >}}
@@ -490,13 +490,13 @@ Workshop Book Review Essays
 
 _For Assignment #22:_
 
-Levenson, Thomas. "[Doubting climate change is not enough](https://www.bostonglobe.com/ideas/2016/04/16/doubting-climate-change-not-enough/3aBHd9Weo9AxSmzI99LSZJ/story.html)." _The Boston Globe_. April 17, 2016.
+Levenson, Thomas. "{{% resource_link "6186aaa7-2459-4c8e-aab0-1f4c9b142099" "Doubting climate change is not enough" %}}." _The Boston Globe_. April 17, 2016.
 
-Fitts, Alexis Sobel. "[Of Science, Activism, and Journalism](https://undark.org/article/climate-science-climate-activism-converge/)." _Undark_. March 20, 2016.
+Fitts, Alexis Sobel. "{{% resource_link "69e6060e-2422-4e24-a988-b6ba6bb3572d" "Of Science, Activism, and Journalism" %}}." _Undark_. March 20, 2016.
 
-Song, Lisa. "[To Be Heard, Climate Scientists Must Practice What They Preach](https://undark.org/article/heard-climate-scientists-must-practice-preach/)." _Undark_. June 23, 2016.
+Song, Lisa. "{{% resource_link "faaeec31-691c-49a1-ab1f-5e937a4c9b53" "To Be Heard, Climate Scientists Must Practice What They Preach" %}}." _Undark_. June 23, 2016.
 
-Harari, Yuval. "[People Have Limited Knowledge. What's the Remedy? Nobody Knows](https://www.nytimes.com/2017/04/18/books/review/knowledge-illusion-steven-sloman-philip-fernbach.html)." _The New York Times_. April 18, 2017.
+Harari, Yuval. "{{% resource_link "589a130f-ce69-4ff3-842f-a84f3aacd9fd" "People Have Limited Knowledge. What's the Remedy? Nobody Knows" %}}." _The New York Times_. April 18, 2017.
 
 
 {{< tdclose >}}
@@ -525,7 +525,7 @@ No assigned readings
 24
 {{< tdclose >}}
 {{< tdopen >}}
-Guest speaker: [Amanda Gefter](http://www.amandagefter.com/bio)
+Guest speaker: {{% resource_link "c94827a9-bfac-4238-9f4b-0db9e03c1500" "Amanda Gefter" %}}
 {{< tdclose >}}
 {{< tdopen >}}
 No assigned readings
