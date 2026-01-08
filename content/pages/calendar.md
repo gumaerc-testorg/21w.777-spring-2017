@@ -488,7 +488,7 @@ Begin to prepare portfolios
 24
 {{< tdclose >}}
 {{< tdopen >}}
-Guest speaker: {{% resource_link "c94827a9-bfac-4238-9f4b-0db9e03c1500" "Amanda Gefter" %}}
+Guest speaker: [Amanda Gefter](http://www.amandagefter.com/bio)
 {{< tdclose >}}
 {{< tdopen >}}
 
